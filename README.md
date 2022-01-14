@@ -1,2 +1,1 @@
-# Infosys 
-Learning Java By Kaushik Sir
+Learning By Kaushik Sir
