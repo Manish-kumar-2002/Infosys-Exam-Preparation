@@ -1,2 +1,2 @@
-# Learning-Java
-Learning Java By Amit Srivastava Sir
+# Infosys 
+Learning Java By Kaushik Sir
